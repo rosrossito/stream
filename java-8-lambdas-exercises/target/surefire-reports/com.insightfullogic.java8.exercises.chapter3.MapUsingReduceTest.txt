@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: com.insightfullogic.java8.exercises.chapter3.MapUsingReduceTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in com.insightfullogic.java8.exercises.chapter3.MapUsingReduceTest
+incrementingNumbers(com.insightfullogic.java8.exercises.chapter3.MapUsingReduceTest)  Time elapsed: 0 sec  <<< ERROR!
+com.insightfullogic.java8.exercises.ExerciseNotCompletedException: Please remove this line of code and implement the exercise
+	at com.insightfullogic.java8.exercises.Exercises.replaceThisWithSolution(Exercises.java:6)
+	at com.insightfullogic.java8.exercises.chapter3.MapUsingReduce.map(MapUsingReduce.java:16)
+	at com.insightfullogic.java8.exercises.chapter3.MapUsingReduceTest.assertMapped(MapUsingReduceTest.java:30)
+	at com.insightfullogic.java8.exercises.chapter3.MapUsingReduceTest.incrementingNumbers(MapUsingReduceTest.java:26)
+
+emptyList(com.insightfullogic.java8.exercises.chapter3.MapUsingReduceTest)  Time elapsed: 0 sec  <<< ERROR!
+com.insightfullogic.java8.exercises.ExerciseNotCompletedException: Please remove this line of code and implement the exercise
+	at com.insightfullogic.java8.exercises.Exercises.replaceThisWithSolution(Exercises.java:6)
+	at com.insightfullogic.java8.exercises.chapter3.MapUsingReduce.map(MapUsingReduce.java:16)
+	at com.insightfullogic.java8.exercises.chapter3.MapUsingReduceTest.assertMapped(MapUsingReduceTest.java:30)
+	at com.insightfullogic.java8.exercises.chapter3.MapUsingReduceTest.emptyList(MapUsingReduceTest.java:16)
+
+identityMapsToItself(com.insightfullogic.java8.exercises.chapter3.MapUsingReduceTest)  Time elapsed: 0 sec  <<< ERROR!
+com.insightfullogic.java8.exercises.ExerciseNotCompletedException: Please remove this line of code and implement the exercise
+	at com.insightfullogic.java8.exercises.Exercises.replaceThisWithSolution(Exercises.java:6)
+	at com.insightfullogic.java8.exercises.chapter3.MapUsingReduce.map(MapUsingReduce.java:16)
+	at com.insightfullogic.java8.exercises.chapter3.MapUsingReduceTest.assertMapped(MapUsingReduceTest.java:30)
+	at com.insightfullogic.java8.exercises.chapter3.MapUsingReduceTest.identityMapsToItself(MapUsingReduceTest.java:21)
+

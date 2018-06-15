@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.insightfullogic.java8.examples.chapter8.command.MacrosTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.002 sec - in com.insightfullogic.java8.examples.chapter8.command.MacrosTest

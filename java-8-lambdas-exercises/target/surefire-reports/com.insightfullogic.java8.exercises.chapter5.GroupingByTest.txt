@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.insightfullogic.java8.exercises.chapter5.GroupingByTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in com.insightfullogic.java8.exercises.chapter5.GroupingByTest
+stringsByLength(com.insightfullogic.java8.exercises.chapter5.GroupingByTest)  Time elapsed: 0 sec  <<< ERROR!
+com.insightfullogic.java8.exercises.ExerciseNotCompletedException: Please remove this line of code and implement the exercise
+	at com.insightfullogic.java8.exercises.Exercises.replaceThisWithSolution(Exercises.java:6)
+	at com.insightfullogic.java8.exercises.chapter5.GroupingBy.supplier(GroupingBy.java:22)
+	at java.util.stream.ReduceOps.makeRef(ReduceOps.java:157)
+	at java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:499)
+	at com.insightfullogic.java8.exercises.chapter5.GroupingByTest.stringsByLength(GroupingByTest.java:18)
+

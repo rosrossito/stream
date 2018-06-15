@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.insightfullogic.java8.exercises.chapter5.LongestNameTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in com.insightfullogic.java8.exercises.chapter5.LongestNameTest
+findsLongestNameByCollecting(com.insightfullogic.java8.exercises.chapter5.LongestNameTest)  Time elapsed: 0 sec  <<< ERROR!
+com.insightfullogic.java8.exercises.ExerciseNotCompletedException: Please remove this line of code and implement the exercise
+	at com.insightfullogic.java8.exercises.Exercises.replaceThisWithSolution(Exercises.java:6)
+	at com.insightfullogic.java8.exercises.chapter5.LongestName.byCollecting(LongestName.java:20)
+	at com.insightfullogic.java8.exercises.chapter5.LongestNameTest.findsLongestNameByCollecting(LongestNameTest.java:19)
+
+findsLongestNameByReduce(com.insightfullogic.java8.exercises.chapter5.LongestNameTest)  Time elapsed: 0 sec  <<< ERROR!
+com.insightfullogic.java8.exercises.ExerciseNotCompletedException: Please remove this line of code and implement the exercise
+	at com.insightfullogic.java8.exercises.Exercises.replaceThisWithSolution(Exercises.java:6)
+	at com.insightfullogic.java8.exercises.chapter5.LongestName.byReduce(LongestName.java:16)
+	at com.insightfullogic.java8.exercises.chapter5.LongestNameTest.findsLongestNameByReduce(LongestNameTest.java:13)
+

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.insightfullogic.java8.answers.chapter9.ArtistAnalyzerTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.007 sec - in com.insightfullogic.java8.answers.chapter9.ArtistAnalyzerTest

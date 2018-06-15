@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.insightfullogic.java8.exercises.chapter2.Question2Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.016 sec <<< FAILURE! - in com.insightfullogic.java8.exercises.chapter2.Question2Test
+exampleInB(com.insightfullogic.java8.exercises.chapter2.Question2Test)  Time elapsed: 0.016 sec  <<< ERROR!
+java.lang.ExceptionInInitializerError: null
+	at com.insightfullogic.java8.exercises.Exercises.replaceThisWithSolution(Exercises.java:6)
+	at com.insightfullogic.java8.exercises.chapter2.Question2.<clinit>(Question2.java:12)
+	at com.insightfullogic.java8.exercises.chapter2.Question2Test.exampleInB(Question2Test.java:17)
+

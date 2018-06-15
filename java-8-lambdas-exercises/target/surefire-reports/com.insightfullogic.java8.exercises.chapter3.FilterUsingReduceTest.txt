@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------------
+Test set: com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 4, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest
+emptyList(com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest)  Time elapsed: 0 sec  <<< ERROR!
+com.insightfullogic.java8.exercises.ExerciseNotCompletedException: Please remove this line of code and implement the exercise
+	at com.insightfullogic.java8.exercises.Exercises.replaceThisWithSolution(Exercises.java:6)
+	at com.insightfullogic.java8.exercises.chapter3.FilterUsingReduce.filter(FilterUsingReduce.java:16)
+	at com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest.assertFiltered(FilterUsingReduceTest.java:35)
+	at com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest.emptyList(FilterUsingReduceTest.java:16)
+
+filterPartOfList(com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest)  Time elapsed: 0 sec  <<< ERROR!
+com.insightfullogic.java8.exercises.ExerciseNotCompletedException: Please remove this line of code and implement the exercise
+	at com.insightfullogic.java8.exercises.Exercises.replaceThisWithSolution(Exercises.java:6)
+	at com.insightfullogic.java8.exercises.chapter3.FilterUsingReduce.filter(FilterUsingReduce.java:16)
+	at com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest.assertFiltered(FilterUsingReduceTest.java:35)
+	at com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest.filterPartOfList(FilterUsingReduceTest.java:31)
+
+trueReturnsEverything(com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest)  Time elapsed: 0 sec  <<< ERROR!
+com.insightfullogic.java8.exercises.ExerciseNotCompletedException: Please remove this line of code and implement the exercise
+	at com.insightfullogic.java8.exercises.Exercises.replaceThisWithSolution(Exercises.java:6)
+	at com.insightfullogic.java8.exercises.chapter3.FilterUsingReduce.filter(FilterUsingReduce.java:16)
+	at com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest.assertFiltered(FilterUsingReduceTest.java:35)
+	at com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest.trueReturnsEverything(FilterUsingReduceTest.java:21)
+
+falseRemovesEverything(com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest)  Time elapsed: 0 sec  <<< ERROR!
+com.insightfullogic.java8.exercises.ExerciseNotCompletedException: Please remove this line of code and implement the exercise
+	at com.insightfullogic.java8.exercises.Exercises.replaceThisWithSolution(Exercises.java:6)
+	at com.insightfullogic.java8.exercises.chapter3.FilterUsingReduce.filter(FilterUsingReduce.java:16)
+	at com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest.assertFiltered(FilterUsingReduceTest.java:35)
+	at com.insightfullogic.java8.exercises.chapter3.FilterUsingReduceTest.falseRemovesEverything(FilterUsingReduceTest.java:26)
+
