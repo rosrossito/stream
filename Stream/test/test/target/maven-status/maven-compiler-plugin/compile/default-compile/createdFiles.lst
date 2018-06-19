@@ -1,0 +1,10 @@
+ua\rd\repository\impl\InMemCardRepository.class
+ua\rd\repository\UserRepository.class
+ua\rd\repository\impl\InMemUserRepository.class
+ua\rd\entiry\Card.class
+ua\rd\entiry\User.class
+ua\rd\service\impl\UserServiceImpl.class
+ua\rd\util\Predefined.class
+ua\rd\repository\CardRepository.class
+ua\rd\service\UserService.class
+ua\rd\Main.class
